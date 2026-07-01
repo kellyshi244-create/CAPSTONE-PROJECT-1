@@ -20,16 +20,19 @@
 *Data Tracking
 
 *Web Scraping
+
 ----------------------------------------------------------------
 CONCEPTS TO USE
 
 *Python core
 
 *j.son model to parse data
+
 -----------------------------------------------------------------
 SUCCESS CRITERIA
 
 *I'll consider the tool operational when it can work on a business inventory without errors
+
 ---------------------------------------------------------------
 STRECH GOALS
 *GUI version with Tkinter
