@@ -12,14 +12,19 @@
  PLANNED FEATURES
 
 *User input
+
 *Loops and conditionals
+
 *Functions
+
 *Data Tracking
+
 *Web Scraping
 ----------------------------------------------------------------
 CONCEPTS TO USE
 
 *Python core
+
 *j.son model to parse data
 -----------------------------------------------------------------
 SUCCESS CRITERIA
