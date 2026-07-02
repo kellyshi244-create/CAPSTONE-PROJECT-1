@@ -40,7 +40,7 @@
 
 *Give a warning when a certain product is almost depleted
 
-*Determine the deficits comparing the amount of money gained by selling the product and the amount of money spent on buying the product
+*Determine the deficits comparing the amount of money that came in and out of the business
 
 *Save all the data in a data base
 
@@ -49,19 +49,19 @@
 ----------------------------------------------------------------
 CONCEPTS TO USE
 
-*Python core
+*Python core(user input,loops and conditionals,functions and classes, restart and quit options)
 
-*j.son model to parse data
+*j.son model 
 
 *Databases(for data storage)
 
 -----------------------------------------------------------------
 SUCCESS CRITERIA
 
-*I'll consider the tool operational when it can work on a business inventory without errors
+*I'll consider the tool operational when it can work on a business inventory without errors and replace the ledgers completely
 
 ---------------------------------------------------------------
 STRECH GOALS
 
-*GUI version with Tkinter
+*Make the sytem an app that could run in all businesses 
 
