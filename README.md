@@ -9,20 +9,42 @@
  -------------------------------------------------------------
  PROBLEM STATEMENT
  
- Small business owners often struggle with tracking how much money they make in their business daily.They often end up with many errors which cause losses to their business due to miscalculation.This system will help the business owners to do correct calculations, know what products bring profit or losses to the business and know which product they need to invest in more.
+ Small business owners often struggle with manually tracking how much money they invest and make in their business daily.They often end up with many errors which cause losses to their business due to miscalculation or loss of data.This system will help the business owners to keep track of all the information collected and perfrom correct calculations in order to make well informed decisions based on their data.
  
 ---------------------------------------------------------------- 
  PLANNED FEATURES
 
-*User input
+-The system will:
 
-*Loops and conditionals
+*Allow users to Log in
 
-*Functions
+*Allow users to Sell products
 
-*Data Tracking
+*Allow users to Search for a product, its best price and availabilty
 
-*Web Scraping
+*Allow specific users to Refill stock
+
+*Allow users to add a new product
+
+*Allow specific users to modify stock details
+
+*Allow specific users to view stock data
+
+*Allocate each product its table in the data base
+
+-The system will perform the following functions:
+
+*Calculate the total amount of money spent on buying each category of product
+
+*Determine the products that give fast profit and slow profit to the business 
+
+*Give a warning when a certain product is almost depleted
+
+*Determine the deficits comparing the amount of money gained by selling the product and the amount of money spent on buying the product
+
+*Save all the data in a data base
+
+*Update all the transaction details into the database
 
 ----------------------------------------------------------------
 CONCEPTS TO USE
@@ -30,6 +52,8 @@ CONCEPTS TO USE
 *Python core
 
 *j.son model to parse data
+
+*Databases(for data storage)
 
 -----------------------------------------------------------------
 SUCCESS CRITERIA
