@@ -1,67 +1,69 @@
 # CAPSTONE-PROJECT-1
 
- TITLE: STOCK MANAGEMENT GUIDE.
+ TITLE: INVENTORY MANAGEMENT SYSTEM
+
+ (For STIMA Electronics shop)
  ------------------------------------------------------------
  PROJECT DESCRIPTION
  
- This is a terminal-based tool built to help the business owners to keep track of the money they have invested in their products.
- 
+ This is a terminal-based tool built to help the STIMA Electronics shop manage their inventory and manage their sales
  -------------------------------------------------------------
  PROBLEM STATEMENT
  
- Small business owners often struggle with manually tracking how much money they invest and make in their business daily.They often end up with many errors which cause losses to their business due to miscalculation or loss of data.This system will help the business owners to keep track of all the information collected and perfrom correct calculations in order to make well informed decisions based on their data.
+ Small business owners often struggle with manually tracking theri sales and inventories.They often end up with many errors which cause losses to their business due to miscalculation or loss of data.This system will help the business owners to keep track of all the business data to help them make decidions based on correct data.
  
----------------------------------------------------------------- 
- PLANNED FEATURES
+-The system considers that there are two types of users;Administrators(business owners and managers) and cashiers.
 
--The system will:
+-Each type of user is allowed to navigate the sytstem based on their role 
 
-*Allow users to Log in
+----------------------------------------------------------------------------------
+PLANNED FEATURES
 
-*Allow users to Sell products
+*Add new products with different categories
 
-*Allow users to Search for a product, its best price and availabilty
+*Edit product information
 
-*Allow specific users to Refill stock
+*Search for a product/sales
 
-*Allow users to add a new product
+*Record sales in the database
 
-*Allow specific users to modify stock details
+*View available products and low-stock products
 
-*Allow specific users to view stock data
+*Generate weekly reports based on weekly sales
 
-*Allocate each product its table in the data base
-
--The system will perform the following functions:
-
-*Calculate the total amount of money spent on buying each category of product
-
-*Determine the products that give fast profit and slow profit to the business 
-
-*Give a warning when a certain product is almost depleted
-
-*Determine the deficits comparing the amount of money that came in and out of the business
-
-*Save all the data in a data base
-
-*Update all the transaction details into the database
+*Display products generating the highest profit/lowest profit
 
 ----------------------------------------------------------------
 CONCEPTS TO USE
 
 *Python core(user input,loops and conditionals,functions and classes, restart and quit options)
 
-*j.son model 
+*sqlite
 
 *Databases(for data storage)
+---------------------------------------------------------------------
+
+DATA SOURCES 
+
+*The system depends on the user-input which is stored in databases
 
 -----------------------------------------------------------------
 SUCCESS CRITERIA
 
-*I'll consider the tool operational when it can work on a business inventory without errors and replace the ledgers completely
+*I'll consider the tool operational when it can:
+
+-work properly without errors 
+
+-store all the data collected in the sytem successfully
+
+-Handle invalid user input without crashing
+
+-Give meaningful weekly reports
 
 ---------------------------------------------------------------
 STRECH GOALS
 
 *Make the sytem an app that could run in all businesses 
+
+*Include web scraping for aquiring data from other businesses and managing the data
 
