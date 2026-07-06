@@ -3,10 +3,12 @@
  TITLE: INVENTORY MANAGEMENT SYSTEM
 
  (For STIMA Electronics shop)
+ 
  ------------------------------------------------------------
  PROJECT DESCRIPTION
  
  This is a terminal-based tool built to help the STIMA Electronics shop manage their inventory and manage their sales
+ 
  -------------------------------------------------------------
  PROBLEM STATEMENT
  
